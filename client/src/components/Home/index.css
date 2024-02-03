@@ -1,0 +1,58 @@
+.home {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 55vh;
+}
+
+h5 a {
+    text-decoration: none; /* Remove underline */
+    color: #007bff; /* Set link color to blue */
+    font-weight: bold; /* Make the text bold */
+  }
+h5 a:hover {
+    text-decoration: underline; /* Underline on hover */
+  }
+
+.card-container {
+    margin-top: 5px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    justify-content: center;
+}
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    max-width: 300px;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    max-height: 200px;
+    object-fit: cover;
+}
+
+.card-content {
+    padding: 15px;
+}
+
+
+.card-title {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.card-description {
+    margin-bottom: 10px;
+}
+
+.card-location {
+    font-style: italic;
+    color: #666;
+}

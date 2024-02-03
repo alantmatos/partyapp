@@ -1,5 +1,4 @@
 
-
 # PartyApp
 RSVP Party app.
 
@@ -92,7 +91,7 @@ Alan
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Bugs and fixes 
+Bugs and fixes:
 
 
 

@@ -1,17 +1,31 @@
-
+import React from 'react';
 import './App.css';
-import NavBar from './Navbar';
+import Navbar from './components/Navbar/Navbar';
+import Home from './components/Home/Home';
+import About from './components/About/About';
+import Event from './components/Event/Event';
+import Footer from './components/Footer/Footer';
+import { Routes, Route } from 'react-router-dom';
 
 function App() {
+
+
+
+
   return (
-    <div className="App">
-      <nav>
-      <NavBar />
-      </nav>
-      <header className="App-header">
-      </header>
-    </div>
+    <>
+      <Navbar />
+      <Routes>
+        <Route>
+          <Route path='/' element={<Home />} />
+          <Route path='/about' element={<About />} />
+          <Route path='/events' element={<Event />} />
+          <Route path='/oldEvents' element={<About />} />
+        </Route>
+      </Routes>
+      <Footer />
+    </>
   );
-}
+};
 
 export default App;
