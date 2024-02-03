@@ -3,7 +3,9 @@
 RSVP Party app.
 
 <div>
-<img src="https://www.pngkey.com/png/detail/233-2332677_image-500580-placeholder-transparent.png" alt="Logo" >
+ <p>
+    <img src="images/icon.png" alt="Logo" width="80" height="80">
+  </p>
 </div>
 
 
@@ -31,13 +33,14 @@ RSVP Party app.
 </details>
 
 
+### About The Project:
 
 
 
 
 
 
-### Built With
+### Built With:
 
 Party App is powered by: 
 
@@ -58,13 +61,19 @@ Party App is powered by:
 
 <div>
 <div>
-<img src="https://www.pngkey.com/png/detail/233-2332677_image-500580-placeholder-transparent.png" alt="Logo" >
+ <p>
+    <img src="images/homepage.png" alt="Logo" width="80" height="80">
+  </p>
 </div>
 <div>
-<img src="https://www.pngkey.com/png/detail/233-2332677_image-500580-placeholder-transparent.png" alt="Logo" >
+ <p>
+    <img src="images/eventspage.png" alt="Logo" width="80" height="80">
+  </p>
 </div>
 <div>
-<img src="https://www.pngkey.com/png/detail/233-2332677_image-500580-placeholder-transparent.png" alt="Logo" >
+ <p>
+    <img src="images/aboutpage.png" alt="Logo" width="80" height="80">
+  </p>
 </div>
 </div>
 
@@ -75,16 +84,16 @@ Party App is powered by:
 <!-- CONTACT -->
 ## Developed by:
 
-Logan
-* https://www.linkedin.com/in/loganguillory0127/ - Linkedin
-* https://github.com/loganguillory - GitHub
-* @logancodez - Twitter
-
 Alan 
 * https://courageous-alpaca-aca2e9.netlify.app/ - Portfolio
 * https://www.linkedin.com/in/alantmatos/ -  Linkedin
 * https://github.com/alantmatos - GitHub
 
+
+Logan
+* https://www.linkedin.com/in/loganguillory0127/ - Linkedin
+* https://github.com/loganguillory - GitHub
+* @logancodez - Twitter
 
 
 

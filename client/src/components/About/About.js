@@ -4,7 +4,7 @@ import './index.css';
 
 function About() {
 
-    return (<>
+    return (<div className="about">
         <div class="about-container">
             <img src="path/to/your/image.jpg" alt="About Us Image" class="about-image" />
             <div class="about-description">
@@ -20,7 +20,7 @@ function About() {
                 <p>Address: 123 Main Street, Cityville, Country</p>
             </div>
         </div>
-    </>);
+    </div>);
 }
 
 
