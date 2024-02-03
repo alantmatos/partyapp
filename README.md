@@ -62,17 +62,17 @@ Party App is powered by:
 <div>
 <div>
  <p>
-    <img src="images/homepage.png" alt="Logo" width="80" height="80">
+    <img src="images/homepage.png" alt="Logo" width="430" height="932">
   </p>
 </div>
 <div>
  <p>
-    <img src="images/eventspage.png" alt="Logo" width="80" height="80">
+    <img src="images/eventspage.png" alt="Logo" width="430" height="932">
   </p>
 </div>
 <div>
  <p>
-    <img src="images/aboutpage.png" alt="Logo" width="80" height="80">
+    <img src="images/aboutpage.png" alt="Logo" width="430" height="932">
   </p>
 </div>
 </div>
